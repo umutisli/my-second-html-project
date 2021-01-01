@@ -1,2 +1,2 @@
 # my-second-html-project
-Meine zweite HTML und CSS Projekt
+Meine zweite HTML und CSS Projekt.
